@@ -1,0 +1,6 @@
+library(tidyverse)
+library(ggplot2)
+library(rafalib)
+readCounts <- read.csv("data/readCounts.csv")
+View(readCounts)
+summary(readCounts)

@@ -1,0 +1,625 @@
+year,country,lifeExp
+1952,Algeria,43.077
+1957,Algeria,45.685
+1962,Algeria,48.303
+1967,Algeria,51.407
+1972,Algeria,54.518
+1977,Algeria,58.014
+1982,Algeria,61.368
+1987,Algeria,65.799
+1992,Algeria,67.744
+1997,Algeria,69.152
+2002,Algeria,70.994
+2007,Algeria,72.301
+1952,Angola,30.015
+1957,Angola,31.999
+1962,Angola,34
+1967,Angola,35.985
+1972,Angola,37.928
+1977,Angola,39.483
+1982,Angola,39.942
+1987,Angola,39.906
+1992,Angola,40.647
+1997,Angola,40.963
+2002,Angola,41.003
+2007,Angola,42.731
+1952,Benin,38.223
+1957,Benin,40.358
+1962,Benin,42.618
+1967,Benin,44.885
+1972,Benin,47.014
+1977,Benin,49.19
+1982,Benin,50.904
+1987,Benin,52.337
+1992,Benin,53.919
+1997,Benin,54.777
+2002,Benin,54.406
+2007,Benin,56.728
+1952,Botswana,47.622
+1957,Botswana,49.618
+1962,Botswana,51.52
+1967,Botswana,53.298
+1972,Botswana,56.024
+1977,Botswana,59.319
+1982,Botswana,61.484
+1987,Botswana,63.622
+1992,Botswana,62.745
+1997,Botswana,52.556
+2002,Botswana,46.634
+2007,Botswana,50.728
+1952,Burkina Faso,31.975
+1957,Burkina Faso,34.906
+1962,Burkina Faso,37.814
+1967,Burkina Faso,40.697
+1972,Burkina Faso,43.591
+1977,Burkina Faso,46.137
+1982,Burkina Faso,48.122
+1987,Burkina Faso,49.557
+1992,Burkina Faso,50.26
+1997,Burkina Faso,50.324
+2002,Burkina Faso,50.65
+2007,Burkina Faso,52.295
+1952,Burundi,39.031
+1957,Burundi,40.533
+1962,Burundi,42.045
+1967,Burundi,43.548
+1972,Burundi,44.057
+1977,Burundi,45.91
+1982,Burundi,47.471
+1987,Burundi,48.211
+1992,Burundi,44.736
+1997,Burundi,45.326
+2002,Burundi,47.36
+2007,Burundi,49.58
+1952,Cameroon,38.523
+1957,Cameroon,40.428
+1962,Cameroon,42.643
+1967,Cameroon,44.799
+1972,Cameroon,47.049
+1977,Cameroon,49.355
+1982,Cameroon,52.961
+1987,Cameroon,54.985
+1992,Cameroon,54.314
+1997,Cameroon,52.199
+2002,Cameroon,49.856
+2007,Cameroon,50.43
+1952,Central African Republic,35.463
+1957,Central African Republic,37.464
+1962,Central African Republic,39.475
+1967,Central African Republic,41.478
+1972,Central African Republic,43.457
+1977,Central African Republic,46.775
+1982,Central African Republic,48.295
+1987,Central African Republic,50.485
+1992,Central African Republic,49.396
+1997,Central African Republic,46.066
+2002,Central African Republic,43.308
+2007,Central African Republic,44.741
+1952,Chad,38.092
+1957,Chad,39.881
+1962,Chad,41.716
+1967,Chad,43.601
+1972,Chad,45.569
+1977,Chad,47.383
+1982,Chad,49.517
+1987,Chad,51.051
+1992,Chad,51.724
+1997,Chad,51.573
+2002,Chad,50.525
+2007,Chad,50.651
+1952,Comoros,40.715
+1957,Comoros,42.46
+1962,Comoros,44.467
+1967,Comoros,46.472
+1972,Comoros,48.944
+1977,Comoros,50.939
+1982,Comoros,52.933
+1987,Comoros,54.926
+1992,Comoros,57.939
+1997,Comoros,60.66
+2002,Comoros,62.974
+2007,Comoros,65.152
+1952,Congo Dem. Rep.,39.143
+1957,Congo Dem. Rep.,40.652
+1962,Congo Dem. Rep.,42.122
+1967,Congo Dem. Rep.,44.056
+1972,Congo Dem. Rep.,45.989
+1977,Congo Dem. Rep.,47.804
+1982,Congo Dem. Rep.,47.784
+1987,Congo Dem. Rep.,47.412
+1992,Congo Dem. Rep.,45.548
+1997,Congo Dem. Rep.,42.587
+2002,Congo Dem. Rep.,44.966
+2007,Congo Dem. Rep.,46.462
+1952,Congo Rep.,42.111
+1957,Congo Rep.,45.053
+1962,Congo Rep.,48.435
+1967,Congo Rep.,52.04
+1972,Congo Rep.,54.907
+1977,Congo Rep.,55.625
+1982,Congo Rep.,56.695
+1987,Congo Rep.,57.47
+1992,Congo Rep.,56.433
+1997,Congo Rep.,52.962
+2002,Congo Rep.,52.97
+2007,Congo Rep.,55.322
+1952,Cote d'Ivoire,40.477
+1957,Cote d'Ivoire,42.469
+1962,Cote d'Ivoire,44.93
+1967,Cote d'Ivoire,47.35
+1972,Cote d'Ivoire,49.801
+1977,Cote d'Ivoire,52.374
+1982,Cote d'Ivoire,53.983
+1987,Cote d'Ivoire,54.655
+1992,Cote d'Ivoire,52.044
+1997,Cote d'Ivoire,47.991
+2002,Cote d'Ivoire,46.832
+2007,Cote d'Ivoire,48.328
+1952,Djibouti,34.812
+1957,Djibouti,37.328
+1962,Djibouti,39.693
+1967,Djibouti,42.074
+1972,Djibouti,44.366
+1977,Djibouti,46.519
+1982,Djibouti,48.812
+1987,Djibouti,50.04
+1992,Djibouti,51.604
+1997,Djibouti,53.157
+2002,Djibouti,53.373
+2007,Djibouti,54.791
+1952,Egypt,41.893
+1957,Egypt,44.444
+1962,Egypt,46.992
+1967,Egypt,49.293
+1972,Egypt,51.137
+1977,Egypt,53.319
+1982,Egypt,56.006
+1987,Egypt,59.797
+1992,Egypt,63.674
+1997,Egypt,67.217
+2002,Egypt,69.806
+2007,Egypt,71.338
+1952,Equatorial Guinea,34.482
+1957,Equatorial Guinea,35.983
+1962,Equatorial Guinea,37.485
+1967,Equatorial Guinea,38.987
+1972,Equatorial Guinea,40.516
+1977,Equatorial Guinea,42.024
+1982,Equatorial Guinea,43.662
+1987,Equatorial Guinea,45.664
+1992,Equatorial Guinea,47.545
+1997,Equatorial Guinea,48.245
+2002,Equatorial Guinea,49.348
+2007,Equatorial Guinea,51.579
+1952,Eritrea,35.928
+1957,Eritrea,38.047
+1962,Eritrea,40.158
+1967,Eritrea,42.189
+1972,Eritrea,44.142
+1977,Eritrea,44.535
+1982,Eritrea,43.89
+1987,Eritrea,46.453
+1992,Eritrea,49.991
+1997,Eritrea,53.378
+2002,Eritrea,55.24
+2007,Eritrea,58.04
+1952,Ethiopia,34.078
+1957,Ethiopia,36.667
+1962,Ethiopia,40.059
+1967,Ethiopia,42.115
+1972,Ethiopia,43.515
+1977,Ethiopia,44.51
+1982,Ethiopia,44.916
+1987,Ethiopia,46.684
+1992,Ethiopia,48.091
+1997,Ethiopia,49.402
+2002,Ethiopia,50.725
+2007,Ethiopia,52.947
+1952,Gabon,37.003
+1957,Gabon,38.999
+1962,Gabon,40.489
+1967,Gabon,44.598
+1972,Gabon,48.69
+1977,Gabon,52.79
+1982,Gabon,56.564
+1987,Gabon,60.19
+1992,Gabon,61.366
+1997,Gabon,60.461
+2002,Gabon,56.761
+2007,Gabon,56.735
+1952,Gambia,30
+1957,Gambia,32.065
+1962,Gambia,33.896
+1967,Gambia,35.857
+1972,Gambia,38.308
+1977,Gambia,41.842
+1982,Gambia,45.58
+1987,Gambia,49.265
+1992,Gambia,52.644
+1997,Gambia,55.861
+2002,Gambia,58.041
+2007,Gambia,59.448
+1952,Ghana,43.149
+1957,Ghana,44.779
+1962,Ghana,46.452
+1967,Ghana,48.072
+1972,Ghana,49.875
+1977,Ghana,51.756
+1982,Ghana,53.744
+1987,Ghana,55.729
+1992,Ghana,57.501
+1997,Ghana,58.556
+2002,Ghana,58.453
+2007,Ghana,60.022
+1952,Guinea,33.609
+1957,Guinea,34.558
+1962,Guinea,35.753
+1967,Guinea,37.197
+1972,Guinea,38.842
+1977,Guinea,40.762
+1982,Guinea,42.891
+1987,Guinea,45.552
+1992,Guinea,48.576
+1997,Guinea,51.455
+2002,Guinea,53.676
+2007,Guinea,56.007
+1952,Guinea-Bissau,32.5
+1957,Guinea-Bissau,33.489
+1962,Guinea-Bissau,34.488
+1967,Guinea-Bissau,35.492
+1972,Guinea-Bissau,36.486
+1977,Guinea-Bissau,37.465
+1982,Guinea-Bissau,39.327
+1987,Guinea-Bissau,41.245
+1992,Guinea-Bissau,43.266
+1997,Guinea-Bissau,44.873
+2002,Guinea-Bissau,45.504
+2007,Guinea-Bissau,46.388
+1952,Kenya,42.27
+1957,Kenya,44.686
+1962,Kenya,47.949
+1967,Kenya,50.654
+1972,Kenya,53.559
+1977,Kenya,56.155
+1982,Kenya,58.766
+1987,Kenya,59.339
+1992,Kenya,59.285
+1997,Kenya,54.407
+2002,Kenya,50.992
+2007,Kenya,54.11
+1952,Lesotho,42.138
+1957,Lesotho,45.047
+1962,Lesotho,47.747
+1967,Lesotho,48.492
+1972,Lesotho,49.767
+1977,Lesotho,52.208
+1982,Lesotho,55.078
+1987,Lesotho,57.18
+1992,Lesotho,59.685
+1997,Lesotho,55.558
+2002,Lesotho,44.593
+2007,Lesotho,42.592
+1952,Liberia,38.48
+1957,Liberia,39.486
+1962,Liberia,40.502
+1967,Liberia,41.536
+1972,Liberia,42.614
+1977,Liberia,43.764
+1982,Liberia,44.852
+1987,Liberia,46.027
+1992,Liberia,40.802
+1997,Liberia,42.221
+2002,Liberia,43.753
+2007,Liberia,45.678
+1952,Libya,42.723
+1957,Libya,45.289
+1962,Libya,47.808
+1967,Libya,50.227
+1972,Libya,52.773
+1977,Libya,57.442
+1982,Libya,62.155
+1987,Libya,66.234
+1992,Libya,68.755
+1997,Libya,71.555
+2002,Libya,72.737
+2007,Libya,73.952
+1952,Madagascar,36.681
+1957,Madagascar,38.865
+1962,Madagascar,40.848
+1967,Madagascar,42.881
+1972,Madagascar,44.851
+1977,Madagascar,46.881
+1982,Madagascar,48.969
+1987,Madagascar,49.35
+1992,Madagascar,52.214
+1997,Madagascar,54.978
+2002,Madagascar,57.286
+2007,Madagascar,59.443
+1952,Malawi,36.256
+1957,Malawi,37.207
+1962,Malawi,38.41
+1967,Malawi,39.487
+1972,Malawi,41.766
+1977,Malawi,43.767
+1982,Malawi,45.642
+1987,Malawi,47.457
+1992,Malawi,49.42
+1997,Malawi,47.495
+2002,Malawi,45.009
+2007,Malawi,48.303
+1952,Mali,33.685
+1957,Mali,35.307
+1962,Mali,36.936
+1967,Mali,38.487
+1972,Mali,39.977
+1977,Mali,41.714
+1982,Mali,43.916
+1987,Mali,46.364
+1992,Mali,48.388
+1997,Mali,49.903
+2002,Mali,51.818
+2007,Mali,54.467
+1952,Mauritania,40.543
+1957,Mauritania,42.338
+1962,Mauritania,44.248
+1967,Mauritania,46.289
+1972,Mauritania,48.437
+1977,Mauritania,50.852
+1982,Mauritania,53.599
+1987,Mauritania,56.145
+1992,Mauritania,58.333
+1997,Mauritania,60.43
+2002,Mauritania,62.247
+2007,Mauritania,64.164
+1952,Mauritius,50.986
+1957,Mauritius,58.089
+1962,Mauritius,60.246
+1967,Mauritius,61.557
+1972,Mauritius,62.944
+1977,Mauritius,64.93
+1982,Mauritius,66.711
+1987,Mauritius,68.74
+1992,Mauritius,69.745
+1997,Mauritius,70.736
+2002,Mauritius,71.954
+2007,Mauritius,72.801
+1952,Morocco,42.873
+1957,Morocco,45.423
+1962,Morocco,47.924
+1967,Morocco,50.335
+1972,Morocco,52.862
+1977,Morocco,55.73
+1982,Morocco,59.65
+1987,Morocco,62.677
+1992,Morocco,65.393
+1997,Morocco,67.66
+2002,Morocco,69.615
+2007,Morocco,71.164
+1952,Mozambique,31.286
+1957,Mozambique,33.779
+1962,Mozambique,36.161
+1967,Mozambique,38.113
+1972,Mozambique,40.328
+1977,Mozambique,42.495
+1982,Mozambique,42.795
+1987,Mozambique,42.861
+1992,Mozambique,44.284
+1997,Mozambique,46.344
+2002,Mozambique,44.026
+2007,Mozambique,42.082
+1952,Namibia,41.725
+1957,Namibia,45.226
+1962,Namibia,48.386
+1967,Namibia,51.159
+1972,Namibia,53.867
+1977,Namibia,56.437
+1982,Namibia,58.968
+1987,Namibia,60.835
+1992,Namibia,61.999
+1997,Namibia,58.909
+2002,Namibia,51.479
+2007,Namibia,52.906
+1952,Niger,37.444
+1957,Niger,38.598
+1962,Niger,39.487
+1967,Niger,40.118
+1972,Niger,40.546
+1977,Niger,41.291
+1982,Niger,42.598
+1987,Niger,44.555
+1992,Niger,47.391
+1997,Niger,51.313
+2002,Niger,54.496
+2007,Niger,56.867
+1952,Nigeria,36.324
+1957,Nigeria,37.802
+1962,Nigeria,39.36
+1967,Nigeria,41.04
+1972,Nigeria,42.821
+1977,Nigeria,44.514
+1982,Nigeria,45.826
+1987,Nigeria,46.886
+1992,Nigeria,47.472
+1997,Nigeria,47.464
+2002,Nigeria,46.608
+2007,Nigeria,46.859
+1952,Reunion,52.724
+1957,Reunion,55.09
+1962,Reunion,57.666
+1967,Reunion,60.542
+1972,Reunion,64.274
+1977,Reunion,67.064
+1982,Reunion,69.885
+1987,Reunion,71.913
+1992,Reunion,73.615
+1997,Reunion,74.772
+2002,Reunion,75.744
+2007,Reunion,76.442
+1952,Rwanda,40
+1957,Rwanda,41.5
+1962,Rwanda,43
+1967,Rwanda,44.1
+1972,Rwanda,44.6
+1977,Rwanda,45
+1982,Rwanda,46.218
+1987,Rwanda,44.02
+1992,Rwanda,23.599
+1997,Rwanda,36.087
+2002,Rwanda,43.413
+2007,Rwanda,46.242
+1952,Sao Tome and Principe,46.471
+1957,Sao Tome and Principe,48.945
+1962,Sao Tome and Principe,51.893
+1967,Sao Tome and Principe,54.425
+1972,Sao Tome and Principe,56.48
+1977,Sao Tome and Principe,58.55
+1982,Sao Tome and Principe,60.351
+1987,Sao Tome and Principe,61.728
+1992,Sao Tome and Principe,62.742
+1997,Sao Tome and Principe,63.306
+2002,Sao Tome and Principe,64.337
+2007,Sao Tome and Principe,65.528
+1952,Senegal,37.278
+1957,Senegal,39.329
+1962,Senegal,41.454
+1967,Senegal,43.563
+1972,Senegal,45.815
+1977,Senegal,48.879
+1982,Senegal,52.379
+1987,Senegal,55.769
+1992,Senegal,58.196
+1997,Senegal,60.187
+2002,Senegal,61.6
+2007,Senegal,63.062
+1952,Sierra Leone,30.331
+1957,Sierra Leone,31.57
+1962,Sierra Leone,32.767
+1967,Sierra Leone,34.113
+1972,Sierra Leone,35.4
+1977,Sierra Leone,36.788
+1982,Sierra Leone,38.445
+1987,Sierra Leone,40.006
+1992,Sierra Leone,38.333
+1997,Sierra Leone,39.897
+2002,Sierra Leone,41.012
+2007,Sierra Leone,42.568
+1952,Somalia,32.978
+1957,Somalia,34.977
+1962,Somalia,36.981
+1967,Somalia,38.977
+1972,Somalia,40.973
+1977,Somalia,41.974
+1982,Somalia,42.955
+1987,Somalia,44.501
+1992,Somalia,39.658
+1997,Somalia,43.795
+2002,Somalia,45.936
+2007,Somalia,48.159
+1952,South Africa,45.009
+1957,South Africa,47.985
+1962,South Africa,49.951
+1967,South Africa,51.927
+1972,South Africa,53.696
+1977,South Africa,55.527
+1982,South Africa,58.161
+1987,South Africa,60.834
+1992,South Africa,61.888
+1997,South Africa,60.236
+2002,South Africa,53.365
+2007,South Africa,49.339
+1952,Sudan,38.635
+1957,Sudan,39.624
+1962,Sudan,40.87
+1967,Sudan,42.858
+1972,Sudan,45.083
+1977,Sudan,47.8
+1982,Sudan,50.338
+1987,Sudan,51.744
+1992,Sudan,53.556
+1997,Sudan,55.373
+2002,Sudan,56.369
+2007,Sudan,58.556
+1952,Swaziland,41.407
+1957,Swaziland,43.424
+1962,Swaziland,44.992
+1967,Swaziland,46.633
+1972,Swaziland,49.552
+1977,Swaziland,52.537
+1982,Swaziland,55.561
+1987,Swaziland,57.678
+1992,Swaziland,58.474
+1997,Swaziland,54.289
+2002,Swaziland,43.869
+2007,Swaziland,39.613
+1952,Tanzania,41.215
+1957,Tanzania,42.974
+1962,Tanzania,44.246
+1967,Tanzania,45.757
+1972,Tanzania,47.62
+1977,Tanzania,49.919
+1982,Tanzania,50.608
+1987,Tanzania,51.535
+1992,Tanzania,50.44
+1997,Tanzania,48.466
+2002,Tanzania,49.651
+2007,Tanzania,52.517
+1952,Togo,38.596
+1957,Togo,41.208
+1962,Togo,43.922
+1967,Togo,46.769
+1972,Togo,49.759
+1977,Togo,52.887
+1982,Togo,55.471
+1987,Togo,56.941
+1992,Togo,58.061
+1997,Togo,58.39
+2002,Togo,57.561
+2007,Togo,58.42
+1952,Tunisia,44.6
+1957,Tunisia,47.1
+1962,Tunisia,49.579
+1967,Tunisia,52.053
+1972,Tunisia,55.602
+1977,Tunisia,59.837
+1982,Tunisia,64.048
+1987,Tunisia,66.894
+1992,Tunisia,70.001
+1997,Tunisia,71.973
+2002,Tunisia,73.042
+2007,Tunisia,73.923
+1952,Uganda,39.978
+1957,Uganda,42.571
+1962,Uganda,45.344
+1967,Uganda,48.051
+1972,Uganda,51.016
+1977,Uganda,50.35
+1982,Uganda,49.849
+1987,Uganda,51.509
+1992,Uganda,48.825
+1997,Uganda,44.578
+2002,Uganda,47.813
+2007,Uganda,51.542
+1952,Zambia,42.038
+1957,Zambia,44.077
+1962,Zambia,46.023
+1967,Zambia,47.768
+1972,Zambia,50.107
+1977,Zambia,51.386
+1982,Zambia,51.821
+1987,Zambia,50.821
+1992,Zambia,46.1
+1997,Zambia,40.238
+2002,Zambia,39.193
+2007,Zambia,42.384
+1952,Zimbabwe,48.451
+1957,Zimbabwe,50.469
+1962,Zimbabwe,52.358
+1967,Zimbabwe,53.995
+1972,Zimbabwe,55.635
+1977,Zimbabwe,57.674
+1982,Zimbabwe,60.363
+1987,Zimbabwe,62.351
+1992,Zimbabwe,60.377
+1997,Zimbabwe,46.809
+2002,Zimbabwe,39.989
+2007,Zimbabwe,43.487

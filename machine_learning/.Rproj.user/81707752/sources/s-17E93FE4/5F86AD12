@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534258087829.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F86AD12",
+    "lastKnownWriteTime" : 2314885530819502112,
+    "last_content_update" : 1534258087829,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ECAAAB52",
+        "caption" : "movgen_matrix3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=movgen_matrix3&cache_key=ECAAAB52",
+        "displayedObservations" : 9125,
+        "environment" : "",
+        "object" : "movgen_matrix3",
+        "preview" : 0,
+        "totalObservations" : 9125,
+        "variables" : 18
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

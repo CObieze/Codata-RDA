@@ -1,0 +1,99 @@
+# Installed Packages
+install.packages("ggplot2")
+install.packages("data.table")
+install.packages("recommenderlab")
+library(ggplot2)
+library(data.table)
+library(recommenderlab)
+
+# Load files to movies
+movies = read.csv("data/movies.csv") # this loads the data from the movies frame
+head(movies, n = 10) # Gives me the 1st 10 items
+str(movies)
+
+# Load files to ratings
+ratings = read.csv("data/ratings.csv")
+str(ratings)
+head(ratings, n = 10)
+
+# Exercise 1 Plot a histogram
+ggplot(ratings, aes(x=rating)) +
+  geom_histogram()
+
+# Add some more features on the graph 
+
+ggplot(ratings, aes(x=rating, fill=factor(rating))) +
+  geom_histogram()
+
+# This should create a data frame movgen
+
+movgen <- movies$genres
+movgen
+
+# Check teacher's steps
+
+movgenT <- as.data.frame(movies$genres, stringsAsFactors=FALSE)
+movgenT
+
+# Do a split 
+
+movgen2 <- tstrsplit(movgen,"",fixed=TRUE, keep = c(1,2,3,4,5,6,7), names = )
+movgen2
+
+# Check teacher's steps
+
+movgen2T <- as.data.frame(tstrsplit(movgenT[,1], '[|]', 
+                                    type.convert = TRUE), 
+                          stringsAsFactors = FALSE)
+movgen2T
+colnames(movgen2T) <- c(1:7)
+head(movgen2T, n=10)
+
+# Exercise # 4
+
+
+
+movgenT_list <- c("Action", "Adventure", "Animation", "Children", "Comedy", "Crime", "Documentary", "Drama", "Fantasy", "Film-Noir", "Horror", "Musical", "Mystery", "Romance", "Sci-Fi", "Thriller", "War", "Western")
+movgenT_list
+
+movgenT_matrix <- matrix( 0, 9125, 18)
+movgenT_matrix
+
+colnames(movgenT_matrix) <- movgenT_list
+colnames(movgenT_matrix)
+
+# iterate through matrix
+for (i in 1:nrow(movgen2T)) {
+  for (c in 1:ncol(movgen2T)) {
+    genmat_col = which(movgenT_list == movgen2T[i,c])
+    movgenT_matrix[i,genmat_col] <-1
+  }
+}
+View(movgenT_matrix)
+
+# have the movies in a data frame
+
+movgenT_matrix2<- as.data.frame(movgenT_matrix, stringsAsFactors=FALSE)
+View(movgenT_matrix2)
+for (c in 1:ncol(movgenT_matrix2)){
+  movgenT_matrix2[,c] <- as.integer(movgenT_matrix2[,c])
+}
+# Assign a data frame to the Binary file 
+
+Binrating <- as.data.frame(ratings, stringsAsFactors=FALSE)
+Binrating
+
+# Assign 1 to anything between (4-5) and -1 to anything below 4
+
+for (i in 1:nrow(Binrating)) {
+  if (Binrating$rating[i]<4){
+    Binrating$rating[i]<- -1}
+  
+  if (Binrating$rating[i]>=4){
+    Binrating$rating[i]<- 1  
+  }}
+Binrating
+
+Binrating2 <- dcast(Binrating,moveId~userId, value.var ="rating", na.rm=FALSE)
+for (i in 1:ncol(Binrating2)) {
+  Binrating2[which(is.na(Binrating2[,i])==TRUE),i] <-0

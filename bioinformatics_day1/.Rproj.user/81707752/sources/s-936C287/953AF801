@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534771979892.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "953AF801",
+    "lastKnownWriteTime" : 1534776793,
+    "last_content_update" : 1534780448200,
+    "path" : "~/Desktop/bioinformatics_day1/script/001.R",
+    "project_path" : "script/001.R",
+    "properties" : {
+        "cursorPosition" : "25,4",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
